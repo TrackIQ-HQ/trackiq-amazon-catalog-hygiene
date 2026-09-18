@@ -1,0 +1,21 @@
+{
+  "name": "trackiq-amazon-catalog-hygiene",
+  "version": "1.0.0",
+  "description": "TrackIQ: Amazon Catalog and Variation Hygiene Audit \u2014 an Agent Skill for Amazon sellers, built on TrackIQ MCP data.",
+  "author": {
+    "name": "TrackIQ",
+    "url": "https://trackiq.com"
+  },
+  "homepage": "https://trackiq.com/skills/trackiq-amazon-catalog-hygiene",
+  "repository": "https://github.com/TrackIQ-HQ/trackiq-amazon-catalog-hygiene",
+  "license": "MIT",
+  "keywords": [
+    "amazon",
+    "amazon-seller",
+    "claude-skill",
+    "agent-skills",
+    "mcp",
+    "trackiq",
+    "listing"
+  ]
+}
