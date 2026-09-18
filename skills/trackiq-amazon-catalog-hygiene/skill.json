@@ -4,7 +4,7 @@
   "category": "listing",
   "version": "1.0.0",
   "updated": "2026-09-18",
-  "summary": "Sweeps a whole Amazon catalogue for the quiet defects nobody owns \u2014 thin image sets, truncating or short titles, bullet counts above or below what displays, orphaned and duplicate SKUs, dead and GUID listings cluttering the inventory, products with no ads and no traffic, and listings that are live but not buyable \u2014 ranked by revenue at risk so the list is finite. Use when the user asks for a catal",
+  "summary": "Sweeps a whole Amazon catalogue for the quiet defects nobody owns \u2014 thin image sets, truncating or short titles, bullet counts above or below what displays, orphaned and duplicate SKUs, dead and GUID listings cluttering the inventory, products with no ads and no traffic, and listings that are live but not buyable \u2014 ranked by revenue at risk so the list is finite.",
   "changelog": "First public release.",
   "requires": {
     "mcp": [
